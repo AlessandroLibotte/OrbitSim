@@ -1,7 +1,6 @@
 import cv2
 import numpy
 import math
-from lib.Vectors.Vectors import VectorsMath
 from dataclasses import dataclass, fields
 
 
